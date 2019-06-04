@@ -1,0 +1,4 @@
+﻿Для сборки программы HolidaysRF необходимо установить Java SE Development Kit 8u202, который доступен по ссылке https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Для сборки проекта необходимо запустить скрипт build.bat
+Для запуска программы HolidaysRF необходимо установить Java SE Runtime Environment 8u202 который доступен по ссылке https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+Для запуска использовать скрипт HolidaysRF.bat находящийся в директории HolidaysRF/bin

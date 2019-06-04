@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HolidaysRF:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HolidaysRF_jar</output-path>
+    <root id="archive" name="HolidaysRF.jar">
+      <element id="module-output" name="HolidaysRF" />
+    </root>
+  </artifact>
+</component>
